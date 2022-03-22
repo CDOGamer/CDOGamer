@@ -1,1 +1,5 @@
-Hi, i am new to the programming world.
+Hey,
+this is my GitHub. Have a look!
+
+hahmann-trier.de
+
